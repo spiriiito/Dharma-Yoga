@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "DHARMA",
+    "paragraph": "Align body, mind, and spirit - find peace in every breath"
+  },
+  "About": {
+    "paragraph": "At Dharma Yoga Studio, we believe yoga is more than movement - it’s a journey toward inner balance, awareness, and connection with the divine essence of life. Our space was created as a sanctuary where the body learns stillness, the mind finds clarity, and the heart opens to compassion. Rooted in ancient wisdom yet guided by modern understanding, we honor each practitioner’s unique path, cultivating mindfulness, harmony, and presence in every breath.",
+    "Why": [
+      "Certified Teachers",
+      "Small, Intimate Groups",
+      "Classes for All Levels",
+      "Peaceful Space"
+    ],
+    "Why2": [
+      "Spiritual Approach",
+      "Mind-Body Balance",
+      "Personal Growth",
+      "Warm Community"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Vinyasa Yoga Class",
+      "largeImage": "img/portfolio/gallery_1.jpg",
+      "smallImage": "img/portfolio/gallery_1.jpg"
+    },
+    {
+      "title": "Vinyasa Yoga Class",
+      "largeImage": "img/portfolio/gallery_2.jpg",
+      "smallImage": "img/portfolio/gallery_2.jpg"
+    },
+    {
+      "title": "Yin Yoga Class",
+      "largeImage": "img/portfolio/gallery_3.jpg",
+      "smallImage": "img/portfolio/gallery_3.jpg"
+    },
+    {
+      "title": "Power Yoga Class",
+      "largeImage": "img/portfolio/gallery_4.jpg",
+      "smallImage": "img/portfolio/gallery_4.jpg"
+    },
+    {
+      "title": "Hatha Yoga Class",
+      "largeImage": "img/portfolio/gallery_5.jpg",
+      "smallImage": "img/portfolio/gallery_5.jpg"
+    },
+    {
+      "title": "Power Yoga Class",
+      "largeImage": "img/portfolio/gallery_6.jpg",
+      "smallImage": "img/portfolio/gallery_6.jpg"
+    },
+    {
+      "title": "Vinyasa Yoga Class",
+      "largeImage": "img/portfolio/gallery_7.jpg",
+      "smallImage": "img/portfolio/gallery_7.jpg"
+    },
+    {
+      "title": "Power Yoga Class",
+      "largeImage": "img/portfolio/gallery_8.jpg",
+      "smallImage": "img/portfolio/gallery_8.jpg"
+    },
+    {
+      "title": "Atmosphere",
+      "largeImage": "img/portfolio/gallery_9.jpg",
+      "smallImage": "img/portfolio/gallery_9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "/img/hatha.png",
+      "name": "Hatha Yoga",
+      "text": "A traditional practice that builds a strong foundation through steady postures and mindful breathing. Perfect for developing flexibility, balance, and a calm, centered mind."
+    },
+    {
+      "icon": "/img/vinyasa.png",
+      "name": "Vinyasa Flow",
+      "text": "A dynamic, rhythmic style connecting each movement to the breath. Expect graceful transitions, creative sequencing, and a meditative flow that energizes body and mind."
+    },
+    {
+      "icon": "/img/power.png",
+      "name": "Power Yoga",
+      "text": "An invigorating, strength-focused practice that tones muscles, increases stamina, and challenges your limits — while maintaining awareness and mindful breath."
+    },
+    {
+      "icon": "/img/restorative.png",
+      "name": "Restorative Yoga",
+      "text": "Gentle, deeply relaxing poses supported by props to release tension and restore balance to the nervous system. Ideal for stress relief and emotional healing."
+    },
+    {
+      "icon": "/img/pranayama.png",
+      "name": "Meditation & Pranayama",
+      "text": "A blend of breath control and guided meditation to quiet the mind, regulate energy, and cultivate inner clarity and peace."
+    },
+    {
+      "icon": "/img/yin_yoga.png",
+      "name": "Yin Yoga",
+      "text": "A slow, meditative style where poses are held for several minutes to stretch connective tissues and enhance flexibility, patience, and stillness."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "I love the calm energy here — the teachers are attentive and the space feels so warm and welcoming. Classes helped my posture and stress levels in just a few sessions.",
+      "name": "Sofia Marino"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Beautiful studio with a peaceful atmosphere. The classes are well-paced and supportive, and I always leave feeling refreshed, stronger, and more centered.",
+      "name": "Elena Rossi"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Incredibly professional instructors who explain every pose clearly. The environment is cozy and safe — perfect for both beginners and regulars alike.",
+      "name": "Maria Bianchi"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Healing, mindful sessions with thoughtful guidance. The studio’s vibe is nurturing and the teachers adapt poses thoughtfully for each student.",
+      "name": "Amara Singh"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Wonderful classes that combine breathwork and gentle strength. I noticed better flexibility and calmness after a month; the community is lovely too.",
+      "name": "Isabella Costa"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "A serene oasis in the city — relaxed lighting, friendly staff, and inspiring teachers. My energy and posture improved noticeably after a few classes.",
+      "name": "Lila Novak"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Aria Mehta",
+      "job": "Lead Hatha & Vinyasa Instructor"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Maya Thompson",
+      "job": "Power Yoga Instructor"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Lila Fernandez",
+      "job": "Restorative & Yin Yoga Specialist"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Sahana Liu",
+      "job": "Meditation & Pranayama Guide"
+    }
+  ],
+  "Contact": {
+    "address": "27 Lotus Way, Riverside Quarter, Milan, Italy",
+    "phone": "+1 123 456 1234",
+    "email": "dharma@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "/img/meditation.png",
+      "title": "Mindful Living",
+      "text": "Awareness in every breath and movement allows the mind and body to align and find quiet harmony in the present moment."
+    },
+    {
+      "icon": "/img/leaf.png",
+      "title": "Nature Connection",
+      "text": "By observing and honoring the rhythms of the natural world, we learn to move in balance with the earth and all living things."
+    },
+    {
+      "icon": "/img/yin.png",
+      "title": "Balance in All Things",
+      "text": "Embracing both effort and surrender, strength and softness, we discover harmony not only in practice but in every aspect of life."
+    },
+    {
+      "icon": "/img/butterfly.png",
+      "title": "Transformation",
+      "text": "Each practice becomes an opportunity for inner growth, self-discovery, and the gentle unfolding of a more centered self."
+    }
+  ]
+}
