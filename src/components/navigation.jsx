@@ -10,6 +10,7 @@ export const Navigation = (props) => {
             className="navbar-toggle collapsed"
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
+            aria-label="Toggle navigation"
           >
             {" "}
             <span className="sr-only">Toggle navigation</span>{" "}
